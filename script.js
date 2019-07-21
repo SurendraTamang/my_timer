@@ -1,5 +1,5 @@
 let audio = new Audio('alarm-1.ogg');
-var countDownDate = new Date("Jan 5, 2021 15:37:25").getTime();
+var countDownDate = new Date("Aug 22, 2019 13:37:25").getTime();
 let countdown;
 const timerDisplay = document.querySelector('.display__time-left');
 const endTime = document.querySelector('.display__end-time');
